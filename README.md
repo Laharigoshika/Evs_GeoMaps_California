@@ -9,7 +9,8 @@ Main Visual
 Data Model
 
 
-![image](https://github.com/Laharigoshika/Evs_GeoMaps_California/assets/91350210/958184ff-ca11-448d-9da8-5c75acc73793)
+![image](https://github.com/Laharigoshika/Evs_GeoMaps_California/assets/91350210/7b2485f2-a59c-4192-a928-4a16fd71980d)
+
 
 
 After selecting a county 
